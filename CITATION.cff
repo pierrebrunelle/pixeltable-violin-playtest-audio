@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "violin workshop play-test recordings media pipeline built with Pixeltable"
+abstract: "Split violin play-test recordings into silence-aware chunks, transcribe luthier voice notes with WhisperX, and evolve the schema safely."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-violin-playtest-audio"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-07
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "multimodal"
+  - "violin"
+  - "luthier"
+  - "speech-to-text"
+  - "media-pipeline"
+  - "ai"
+  - "data-infrastructure"
